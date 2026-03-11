@@ -13,18 +13,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
