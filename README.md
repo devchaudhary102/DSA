@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
+| [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
