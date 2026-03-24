@@ -38,12 +38,14 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/devchaudhary102/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/devchaudhary102/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/devchaudhary102/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/devchaudhary102/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
