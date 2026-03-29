@@ -64,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devchaudhary102/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 <!---LeetCode Topics End-->
