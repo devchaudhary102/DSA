@@ -23,6 +23,7 @@
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -71,11 +73,13 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
