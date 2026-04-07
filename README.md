@@ -22,6 +22,7 @@
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/devchaudhary102/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -38,6 +39,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -80,6 +82,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -113,5 +116,6 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
