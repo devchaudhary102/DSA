@@ -52,6 +52,7 @@
 | [0303-range-sum-query-immutable](https://github.com/devchaudhary102/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -101,11 +102,13 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devchaudhary102/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -121,4 +124,8 @@
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 <!---LeetCode Topics End-->
