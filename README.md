@@ -56,6 +56,7 @@
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devchaudhary102/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devchaudhary102/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/devchaudhary102/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
