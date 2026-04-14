@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/devchaudhary102/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/devchaudhary102/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -92,12 +93,14 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devchaudhary102/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devchaudhary102/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Sorting
@@ -129,9 +132,18 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/devchaudhary102/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
