@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/devchaudhary102/DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/devchaudhary102/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/devchaudhary102/DSA/tree/main/0547-number-of-provinces/) | Medium |
@@ -93,6 +94,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/devchaudhary102/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devchaudhary102/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -100,6 +102,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/devchaudhary102/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
