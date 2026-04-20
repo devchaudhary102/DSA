@@ -1,44 +1,36 @@
+class Pair{
+    String s;
+    int l;
+    Pair(String s,int l){
+        this.s=s;
+        this.l=l;
+    }
+}
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-
-        Set<String> set = new HashSet<>(wordList);
-        if (!set.contains(endWord)) {
-            return 0;
-        }
-
-        Queue<String> q = new LinkedList<>();
-        q.add(beginWord);
-
-        int level = 1;
-
-        while (!q.isEmpty()) {
-            int size = q.size();
-
-            for (int i = 0; i < size; i++) {
-                String word = q.poll();
-
-                if (word.equals(endWord)) {
-                    return level;
-                }
-
-                char[] arr = word.toCharArray();
-
-                for (int j = 0; j < arr.length; j++) {
-                    char old = arr[j];
-
-                    for (char c = 'a'; c <= 'z'; c++) {
-                        arr[j] = c;
-                        String next = new String(arr);
-
-                        if (set.contains(next)) {
-                            q.add(next);
-                            set.remove(next);
-                        }
+        Queue<Pair> q=new LinkedList<>();
+        q.add(new Pair(beginWord,1));
+        Set<String> st=new HashSet<>(wordList);
+        int len=wordList.size();
+        st.remove(beginWord);
+        while(!q.isEmpty()){
+            String word=q.peek().s;
+            int steps=q.peek().l;
+            q.remove();
+            if(word.equals(endWord)==true){
+                return steps;
+            }
+            for(int i=0;i<word.length();i++){
+                for(char ch='a';ch<='z';ch++){
+                    char rep[]=word.toCharArray();
+                    rep[i]=ch;
+                    String nw=new String(rep);
+                    if(st.contains(nw)==true){
+                        st.remove(nw);
+                        q.add(new Pair(nw,steps+1));
                     }
-                    arr[j] = old;
                 }
             }
-            level++;
         }
         return 0;
     }
