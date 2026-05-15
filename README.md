@@ -100,6 +100,7 @@
 | [0785-is-graph-bipartite](https://github.com/devchaudhary102/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,12 +142,14 @@
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/devchaudhary102/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/devchaudhary102/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +183,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
