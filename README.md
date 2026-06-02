@@ -60,6 +60,7 @@
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/devchaudhary102/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/devchaudhary102/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
