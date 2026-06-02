@@ -63,6 +63,7 @@
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/devchaudhary102/DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devchaudhary102/DSA/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devchaudhary102/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/devchaudhary102/DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -122,11 +123,13 @@
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devchaudhary102/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devchaudhary102/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devchaudhary102/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/devchaudhary102/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devchaudhary102/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +188,8 @@
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/devchaudhary102/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
