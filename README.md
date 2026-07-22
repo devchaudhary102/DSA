@@ -52,6 +52,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/devchaudhary102/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/devchaudhary102/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -82,6 +83,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/devchaudhary102/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/devchaudhary102/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -153,6 +155,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/devchaudhary102/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
