@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/devchaudhary102/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devchaudhary102/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devchaudhary102/DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/devchaudhary102/DSA/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -163,6 +164,7 @@
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devchaudhary102/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devchaudhary102/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devchaudhary102/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
