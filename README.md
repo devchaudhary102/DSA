@@ -61,6 +61,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1020-number-of-enclaves](https://github.com/devchaudhary102/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devchaudhary102/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/devchaudhary102/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/devchaudhary102/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devchaudhary102/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1402-reducing-dishes](https://github.com/devchaudhary102/DSA/tree/main/1402-reducing-dishes/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devchaudhary102/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/devchaudhary102/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/devchaudhary102/DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devchaudhary102/DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -193,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devchaudhary102/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/devchaudhary102/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
