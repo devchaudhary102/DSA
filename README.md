@@ -55,6 +55,7 @@
 | [0063-unique-paths-ii](https://github.com/devchaudhary102/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/devchaudhary102/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/devchaudhary102/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/devchaudhary102/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/devchaudhary102/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/devchaudhary102/DSA/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -162,6 +163,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/devchaudhary102/DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0139-word-break](https://github.com/devchaudhary102/DSA/tree/main/0139-word-break/) | Medium |
+| [0213-house-robber-ii](https://github.com/devchaudhary102/DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devchaudhary102/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/devchaudhary102/DSA/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/devchaudhary102/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
