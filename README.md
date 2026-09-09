@@ -219,6 +219,7 @@
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devchaudhary102/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/devchaudhary102/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3871-count-commas-in-range-ii](https://github.com/devchaudhary102/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
